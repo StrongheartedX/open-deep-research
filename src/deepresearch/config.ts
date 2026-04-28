@@ -23,8 +23,8 @@ export const AVAILABLE_MODELS = [
     label: "Deepseek V3.1",
   },
   {
-    value: "MiniMaxAI/MiniMax-M2.5",
-    label: "MiniMax M2.5",
+    value: "MiniMaxAI/MiniMax-M2.7",
+    label: "MiniMax M2.7",
   },
   {
     value: "Qwen/Qwen3-235B-A22B-Instruct-2507-tput",
